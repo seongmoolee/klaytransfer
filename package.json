@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "caver-js": "^1.10.1",
+    "dotenv": "^16.0.3"
+  }
+}
